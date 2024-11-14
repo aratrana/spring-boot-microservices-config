@@ -4,7 +4,7 @@ accounts:
    message: 'Welcome to AKRBank accounts related prods APIs '
    contactDetails:
       name: Arat Rana - Developer
-      email: akr@akrbank.com
+      email: "{cipher}9e10d8462e979cc8f93ba7001a3a147f9267c4fa8c27a2594674e80f23f53ddb"
    onCallSupport:
    - (555) 555-1234
    - (555) 523-1345
